@@ -115,10 +115,10 @@ By the end of this challenge I aim to:
 
 This **100 Days of Deep Learning challenge** follows the amazing YouTube playlist by **CampusX**.
 
-📺 **Deep Learning Playlist**  
+ **Deep Learning Playlist**  
 https://www.youtube.com/playlist?list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn
 
-Huge thanks to **CampusX** for creating one of the best deep learning playlists on YouTube.
+Huge thanks to **Nitish Singh** for creating one of the best deep learning playlists on YouTube.
 
 ---
 
