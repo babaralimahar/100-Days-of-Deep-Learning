@@ -32,7 +32,7 @@ The mission is simple:
 
 > **Learn Deep Learning every day for 100 days and build real skills through practice.**
 
-This repository will include:
+This repository contains:
 
  * Learning Notes  
  * Python Implementations  
@@ -67,7 +67,7 @@ This repository will include:
 
 ---
 
-#  Repository Structure
+#  Topics Covered
 
 ```
 100-Days-of-Deep-Learning
@@ -75,7 +75,6 @@ This repository will include:
 ├── CNN
 ├── RNN
 ├── Transformers
-│
 └── Projects
 ```
 
