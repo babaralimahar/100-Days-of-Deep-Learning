@@ -22,7 +22,7 @@
 
 ---
 
-# 🧠 About This Challenge
+#  About This Challenge
 
 Welcome to my **100 Days of Deep Learning Challenge**.
 
@@ -34,15 +34,15 @@ The mission is simple:
 
 This repository will include:
 
-📚 Learning Notes  
-💻 Python Implementations  
-🧪 Experiments  
-📊 Deep Learning Models  
-🚀 Mini Projects  
+ Learning Notes  
+ Python Implementations  
+ Experiments  
+ Deep Learning Models  
+ Mini Projects  
 
 ---
 
-# 📅 Challenge Roadmap
+#  Challenge Roadmap
 
 | Phase | Topics |
 |------|------|
@@ -57,7 +57,7 @@ This repository will include:
 
 ---
 
-# 🛠 Tech Stack
+#  Tech Stack
 
 <p align="center">
 
@@ -67,15 +67,10 @@ This repository will include:
 
 ---
 
-# 📂 Repository Structure
+#  Repository Structure
 
 ```
 100-Days-of-Deep-Learning
-│
-├── Day-01
-├── Day-02
-├── Day-03
-│
 ├── Neural-Networks
 ├── CNN
 ├── RNN
@@ -84,16 +79,7 @@ This repository will include:
 └── Projects
 ```
 
-Each day includes:
-
-✔ Code  
-✔ Concepts  
-✔ Notes  
-✔ Experiments  
-
----
-
-# 📊 Progress Tracker
+#  Progress Tracker
 
 | Day | Topic | Status |
 |----|----|----|
@@ -105,7 +91,7 @@ Each day includes:
 
 ---
 
-# 🔥 Deep Learning Visualization
+#  Deep Learning Visualization
 
 <p align="center">
 <img src="https://miro.medium.com/v2/resize:fit:1400/1*bhFifratH9DjKqMBTeQG5A.gif" width="500">
@@ -113,7 +99,7 @@ Each day includes:
 
 ---
 
-# 🎯 Goals
+#  Goals
 
 By the end of this challenge I aim to:
 
@@ -125,27 +111,31 @@ By the end of this challenge I aim to:
 
 ---
 
-# 👨‍💻 Author
+#  Learning Resource
 
-**Nitish Singh**
+This **100 Days of Deep Learning challenge** follows the amazing YouTube playlist by **CampusX**.
 
-AI Enthusiast | Machine Learning Learner | Future AI Engineer
+📺 **Deep Learning Playlist**  
+https://www.youtube.com/playlist?list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn
 
-Currently learning:
-
-• Machine Learning  
-• Deep Learning  
-• Generative AI  
+Huge thanks to **CampusX** for creating one of the best deep learning playlists on YouTube.
 
 ---
 
-# ⭐ Support
 
-If you like this project:
+#  Follow Me
 
-⭐ Star the repository  
-🍴 Fork it  
-📢 Share it  
+**Babar Ali**
+
+AI Enthusiast | Machine Learning Learner | Future AI Engineer
+
+---
+
+If you like this Repo:
+
+ Star the repository  
+ Fork it  
+ Share it  
 
 ---
 
