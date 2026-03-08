@@ -61,7 +61,7 @@ This repository will include:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,numpy,pandas,sklearn,git,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,numpy,pandas,sklearn,git,vscode"/>
 
 </p>
 
@@ -139,7 +139,7 @@ If you like this Repo:
 
 ---
 
-# 🚀 Challenge Rule
+#  Challenge Rule
 
 > **No Zero Days.**
 >  
