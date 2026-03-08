@@ -34,11 +34,11 @@ The mission is simple:
 
 This repository will include:
 
- Learning Notes  
- Python Implementations  
- Experiments  
- Deep Learning Models  
- Mini Projects  
+ * Learning Notes  
+ * Python Implementations  
+ * Experiments  
+ * Deep Learning Models  
+ * Mini Projects  
 
 ---
 
@@ -84,10 +84,13 @@ This repository will include:
 | Day | Topic | Status |
 |----|----|----|
 | Day 1 | Introduction to Deep Learning | ✅ |
-| Day 2 | Neural Network Basics | ⏳ |
-| Day 3 | Gradient Descent | ⏳ |
-| Day 4 | Activation Functions | ⏳ |
-| Day 5 | Backpropagation | ⏳ |
+| Day 2 | Neural Network Basics | ✅ |
+| Day 3 | Gradient Descent | ✅ |
+| Day 4 | Activation Functions | ✅ |
+| Day 5 | Backpropagation | ✅ |
+|----|----|----|
+|----|----|----|
+|----|----|----|
 
 ---
 
