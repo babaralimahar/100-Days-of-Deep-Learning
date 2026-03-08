@@ -133,9 +133,9 @@ AI Enthusiast | Machine Learning Learner | Future AI Engineer
 
 If you like this Repo:
 
- Star the repository  
- Fork it  
- Share it  
+ * Star the repository  
+ * Fork it  
+ * Share it  
 
 ---
 
@@ -149,6 +149,6 @@ If you like this Repo:
 
 <p align="center">
 
-🔥 **Building the future with AI**
+ **Building the future with AI**
 
 </p>
